@@ -2,16 +2,16 @@
 
 |      Name        |     <Options>   |
 |----------------|---------------|
-**play** or **p**  _<query>_
-**playlist** _<query>_
-**queue** or **q**  _<query>_
+**play** or **p** | _<query>_
+**playlist** |_<query>_
+**queue** or **q** | _<query>_
 **skip**
 **stop**
 **noloop**
 **loop**
 **loopQueue**
 **loopqueue**
-**setVolume** _<number>_
+**setVolume** | _<number>_
 **getVolume**
 **seek**
 **clearQueue**
