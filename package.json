@@ -1,0 +1,25 @@
+{
+  "name": "discord-loomi-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/bot.js",
+    "dev": "nodemon ./src/bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "discord-markdown": "^2.5.0",
+    "discord-music-player": "^8.0.2",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "opusscript": "^0.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
